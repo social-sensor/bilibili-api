@@ -42,6 +42,5 @@ setuptools.setup(
         "Source": "https://github.com/Passkou/bilibili_api",
         "Homepage": "https://github.com/Passkou/bilibili_api",
         "Documentation": "https://github.com/Passkou/bilibili_api/tree/main/docs"
-    },
-    python_requires=">=3.7"
+    }
 )
